@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "https://schemas.reqnroll.net/reqnroll-config-latest.json",
+
+  "bindingAssemblies": [
+    {
+      "assembly": "WDI2026.Presentation.API.Common"
+    }
+  ],
+  "formatters": {
+    "html": { "outputFilePath": "specFlowReport/reqnroll_report.html" }
+  }
+}

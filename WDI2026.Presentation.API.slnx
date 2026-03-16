@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="WDI.Presentation.API.Tests/WDI2026.Presentation.API.Tests.csproj" />
+  <Project Path="WDI2026.Presentation.API.Client/WDI2026.Presentation.API.Client.csproj" />
+  <Project Path="WDI2026.Presentation.API.Common/WDI2026.Presentation.API.Common.csproj" Id="58db94f5-bc2b-41b0-b8d1-49a7a27d06f0" />
+</Solution>

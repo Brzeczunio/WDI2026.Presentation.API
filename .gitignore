@@ -1,0 +1,268 @@
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.iml
+
+# Visual Studio Code
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/*.log
+
+# Rider
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.lock.json
+
+# Local NuGet cache
+~/.nuget/
+
+# dotnet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+.dotnet/
+
+# MSBuild
+*.msix
+*.msixbundle
+*.appxbundle
+*.appx
+*.appxupload
+*.publishsettings
+PublishProfiles/
+
+# Test Results
+TestResults/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+[Tt]rn[Ll]og*.txt
+*.trx
+*.coverage
+*.coveragexml
+coverage.xml
+opencover.xml
+*.html
+
+# Code coverage
+*.coveragexml
+.coverage
+.coveragegenerator
+OpenCover/
+
+# Reqnroll/SpecFlow
+bin/Debug/
+bin/Release/
+specFlowReport/
+reqnroll_report.html
+TestExecution.json
+SpecFlowFeatureFileCodeBehind.cs
+*.feature.cs
+
+# BDD Test Results
+StepDefinitions/
+FeatureFiles/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+*.DotCoverageXml
+*.ncrunchproject
+*.ncrunchsolution
+
+# StyleCop
+StyleCopViolations.xml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.personalization
+*.suo
+*.user
+*.userosscache
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+appsettings.local.json
+appsettings.*.local.json
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE specific
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+.texlipse
+.loadpath
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Package files
+dist/
+build/
+.gradle
+.m2/
+
+# Miscellaneous
+.cache/
+*.cache
+.sass-cache/
+.grunt/
+.node_modules/
+bower_components/
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# JetBrains
+.idea
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# OpenCover UI reports
+OpenCoverUI/
+
+# Application Insights
+ApplicationInsights.config
+AppInsightsResourceGroupDeployment/
+
+# Unit Test / Coverage Reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Azure
+.azure/
+.azurerc
+msal_token_cache.bin
+
+# Docker
+.dockerignore
+Dockerfile
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Certificates
+*.pfx
+*.pem
+*.crt
+*.key
+*.cer
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+
+# Temp directories
+temp/
+tmp/
+Temp/
+Tmp/
+
+# User content
+UserContent/
+user-content/
+
+# Generated files
+*.Generated.cs
+*.g.cs
+*_pb2.py
+
+# Web
+node_modules/
+dist/
+.angular/
+.next/
+out/
+.nuxt/
+.vuepress/dist/
+.serverless/
+.fusebox/
+.dynamodb/
+.tern-port/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
